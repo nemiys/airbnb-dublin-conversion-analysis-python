@@ -36,8 +36,14 @@
 * **חשיבות המהירות:** קיים קשר ישיר ומובהק בין מענה מהיר (בטווח של 0-60 דקות) לבין סיכויי סגירת ההזמנה.
 * **נחישות המשתמש:** ככל שמשתמש משקיע יותר בחיפוש (Intensity), כך עולה הסיכוי שלו לבצע הזמנה (מעל 50% המרה למשתמשים עם 50+ חיפושים).
 
-  ## 📊 מצגת הפרויקט
-תוכלו לצפות במצגת הסיכום והתובנות של הפרויקט ב-Canva [בלחיצה כאן](https://canva.link/mw7pvws6llku5eb).
+  ### 📁 חומרי הפרויקט והמצגת הסופית
 
+### 📊 מצגת הסיכום
+תוכלו לצפות במצגת ב-Canva בלחיצה על התג:
+[![Canva Presentation](https://img.shields.io/badge/Canva-Presentation-blue?style=flat-square&logo=canva&logoColor=white)](https://canva.link/mw7pvws6llku5eb)
+
+### 💻 מחברת הקוד למצגת הסופית
+לצפייה והרצת הקוד ישירות בדפדפן:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gtufv7MUmb4Zwf5LhBZLPJjC6vH4jgS0?usp=sharing)
 ---
 *הפרויקט בוצע כחלק מהכשרת Data Analysis & BI במכללת **Upscale Analytics By Ram Kedem**.*
