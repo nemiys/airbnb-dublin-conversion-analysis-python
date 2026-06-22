@@ -1,6 +1,6 @@
 # <img src="https://flagcdn.com/w40/ie.png" width="28"> Airbnb Dublin – Conversion Funnel Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nemiys/airbnb-dublin-conversion-analysis-python/blob/main/airbnb_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nemiys/airbnb-dublin-conversion-analysis-python/blob/master/airbnb_analysis.ipynb)
 
 ## Overview
 
