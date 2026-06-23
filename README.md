@@ -12,7 +12,7 @@ This project analyzes guest behavior on Airbnb's Dublin marketplace to identify 
 
 | Finding | Insight |
 |---|---|
-| **Filter users convert 3× more** | Guests who apply price or room-type filters are far more likely to book — filters signal intent |
+| **Price filter lifts conversion 1.7×** | Guests who apply the price filter book at 18.6% vs 10.9% with no filter (1.7× lift); using both filters yields 16.8% (1.5×) — filters remain a strong intent signal |
 | **Lead time matters at Accept** | The 8–30 day window has the highest host accept rate; last-minute contacts underperform |
 | **Idle listings leak guests** | Hundreds of listings receive contacts but never convert due to very low host accept rates |
 | **Ireland anomaly** | IE generates the most searches but one of the lowest conversion rates; host-searcher overlap is a partial but not full explanation |
@@ -59,7 +59,7 @@ Full documentation is in the notebook under **Part A – Data Preparation**.
 
 ## Business Recommendations
 
-1. **Prompt filter usage** — nudge guests to filter before browsing; it triples conversion rate
+1. **Prompt filter usage** — nudge guests to filter before browsing; price filter alone lifts booking rate from 10.9% → 18.6% (1.7×)
 2. **Re-engage high-intent searchers** — users with 50+ searches but no booking are high-conversion targets
 3. **Educate guests on lead time** — push the 8–30 day booking window across markets
 4. **De-rank idle listings** — hosts with accept rates below 30% are wasting guest contacts
