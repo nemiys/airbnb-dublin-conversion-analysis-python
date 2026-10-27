@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project analyzes guest behavior on Airbnb's Dublin marketplace to identify where users drop off in the booking funnel and what drives conversion. The analysis covers ~130,000 search events and ~50,000 contact interactions.
+This project analyzes guest behavior on Airbnb's Dublin marketplace to identify where users drop off in the booking funnel and what drives conversion. The analysis covers 18,605 unique searchers and 7,823 contact records from 3,283 guests, 2,042 of whom booked (a 10.98% search-to-booking rate). Search events cover 1–14 October 2014, while contact records span March 2014 to February 2015.
 
 **Core question:** Of all users who search, how many actually book — and why do the others leave?
 
